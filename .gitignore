@@ -1,0 +1,7 @@
+# Ignore all IDA database files
+*.id0
+*.id1
+*.id2
+*.i64
+*.nam
+*.til
