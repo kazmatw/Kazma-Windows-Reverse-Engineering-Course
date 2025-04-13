@@ -9,7 +9,7 @@ aka 「來自火精靈的挑戰書：從 Flare-On 出發的 Windows 逆向課程
 
 ## Info 
 - [課程簡報](https://docs.google.com/presentation/d/1HGWygqlx4E70e3P3tuKM3AYIuGC7Y5VayFBHgcWM4fI/edit?usp=sharing)
-- [課程錄影]()
+- 課程錄影
   - comming soon 
 - [CTFd](https://class.nckuctf.org)
 - 課程大綱
